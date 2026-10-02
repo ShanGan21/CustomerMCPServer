@@ -166,22 +166,6 @@ This project showcases:
 
 ---
 
-## Future Improvements
 
-- Connect to a real database (SQL Server, PostgreSQL) via Entity Framework Core  
-- Add order filtering by date range or status  
-- Implement pagination for large customer/order lists  
-- Add authentication/authorization for sensitive endpoints  
-- TODO: Add unit tests for `CustomerTools` and `CustomerRepository`  
 
----
 
-## TODO
-
-- [ ] Add author contact info and LinkedIn  
-- [ ] Link to MCP spec and reference docs  
-- [ ] Add license (MIT? Apache 2.0?)  
-
----
-
-**Questions?** Open an issue or contact [TODO: Your Name / Email].
